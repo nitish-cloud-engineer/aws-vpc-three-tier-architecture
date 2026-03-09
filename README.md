@@ -1,6 +1,9 @@
 # AWS VPC Three Tier Architecture
 
 This project demonstrates how to design a secure AWS VPC architecture for hosting a three-tier web application.
+## Architecture Diagram
+
+![AWS VPC Architecture](vpc-architecture-diagram.png)
 
 ## Architecture Components
 
